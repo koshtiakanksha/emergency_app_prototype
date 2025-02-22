@@ -1,6 +1,7 @@
 streamlit
 pandas
 folium
+streamlit_folium
 sqlite3
 requests
 openai
